@@ -1,2 +1,2 @@
 # NGO
-SDWSB - Shri Dnyanraj Varkari Multipurpose Organisation
+SDWBS - Shri Dnyanraj Varkari Multipurpose Organisation
